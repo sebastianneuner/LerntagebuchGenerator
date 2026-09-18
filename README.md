@@ -4,7 +4,9 @@ Erstellt dein wöchentliches Lerntagebuch als Word-Dokument (`.docx`). Du trägs
 pro Woche nur Kalenderwoche, Lernort und die Tagesinhalte ein, den Rest
 (Datum, Stunden, Kästchen, Name, Unterschrift) füllt die App aus.
 
-Läuft unter **Windows** und **Linux**. Es muss nichts installiert werden.
+Läuft unter **Windows 10/11** und **Linux** (Systeme ab Stand Ubuntu 24.04,
+z. B. Ubuntu 24.04+, Linux Mint 22+, aktuelles Fedora oder Debian 13). Es muss
+nichts installiert werden.
 
 ---
 
