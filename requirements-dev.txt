@@ -1,0 +1,3 @@
+# Nur zum Bauen der ausfuehrbaren App (lerntagebuch.spec), nicht zum Ausfuehren.
+-r requirements.txt
+pyinstaller==6.22.3

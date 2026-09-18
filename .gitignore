@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtuelle Umgebung
+.venv/
+
+# PyInstaller-Ausgabe (fertige App kommt ins GitHub Release, nicht ins Repo)
+build/
+dist/
+
+# Geheimnisse / Zugangsdaten
+.env
+
+# Generierte Dokumente
+output/
+
+# Arbeitsstand einer Woche — wird von gui.py geschrieben und beim Start
+# wieder eingelesen. Aendert sich woechentlich, gehoert nicht ins Repo.
+# Fehlt die Datei, startet die GUI einfach mit leerem Formular.
+week.json
+
+# Eigene Einstellungen (Name, Stunden, Speicherort). Persoenlich, gehoert
+# nicht ins Repo. Fehlt die Datei, gelten die Standardwerte aus config.py.
+settings.json
+settings.json.tmp
+
+# Eigenes Unterschriftsbild (wird ueber die Einstellungen in den App-Ordner kopiert)
+/unterschrift.png
+/unterschrift.jpg
+/unterschrift.jpeg
+
+# Lokale Sperrliste fuer tests/test_template.py (persoenliche Namen)
+tests/sperrliste.txt
+
+# Word-Sperrdateien (entstehen, solange ein Dokument geoeffnet ist)
+~$*
